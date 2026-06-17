@@ -22,7 +22,7 @@ def load_model():
 
     ckpt_path = hf_hub_download(
         repo_id="Naufalthrq10/speech_emotion_recognition",
-        filename="model/best_model.ckpt"
+        filename="Speech_Emotion_Recognition/model/best_model.ckpt"
     )
 
     # pastikan class ini ada di project kamu
