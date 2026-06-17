@@ -1,0 +1,11 @@
+streamlit
+torch
+torchaudio
+transformers
+numpy
+pandas
+librosa
+soundfile
+scikit-learn
+huggingface_hub
+Pillow
