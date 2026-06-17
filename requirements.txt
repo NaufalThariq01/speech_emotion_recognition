@@ -2,6 +2,7 @@ streamlit
 torch
 torchaudio
 transformers
+pytorch-lightning
 numpy
 pandas
 librosa
