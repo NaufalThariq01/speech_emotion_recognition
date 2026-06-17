@@ -3,6 +3,7 @@ import torchaudio
 from functools import lru_cache
 from huggingface_hub import hf_hub_download
 import pytorch_lightning as pl
+from model import MyWav2VecModel
 
 # =========================
 # LABEL MAPPING
